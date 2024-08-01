@@ -1,1 +1,1 @@
-# -Face-detection-in-python
+# Face detection in python
